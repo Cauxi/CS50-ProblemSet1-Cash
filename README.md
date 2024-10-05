@@ -1,4 +1,4 @@
-<h1>pset1-cash<\h1>
+<h1>pset1-cash</h1>
 
 NOTE: Copying this data and using it for your submission will breach the academic honesty policy of CS50. Please make sure you learn the material and solve the problem on your own. It's worth it!
 
