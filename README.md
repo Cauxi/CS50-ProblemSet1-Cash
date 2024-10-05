@@ -1,3 +1,5 @@
+<h1>pset1-cash<\h1>
+
 NOTE: Copying this data and using it for your submission will breach the academic honesty policy of CS50. Please make sure you learn the material and solve the problem on your own. It's worth it!
 
 This is my solution to the CS50 "Cash" problem set, implemented in C. You can find more details about the problem here: https://cs50.harvard.edu/x/2024/psets/1/cash/
